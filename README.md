@@ -2,6 +2,7 @@
 
 Bu proje, bir turizm ajansının otel yönetimi için geliştirilmiş bir RESTful API'yi içermektedir. Aşağıda API endpoint'lerini ve kullanımını gösteren bir rehber bulunmaktadır.
 
+![Ekran Görüntüsü (54)](https://github.com/cgezginci/TourismManagementRestAPI/assets/143842154/45bcecb2-f0c8-472f-8e0a-867ed1ae72ce)
 
 
 
